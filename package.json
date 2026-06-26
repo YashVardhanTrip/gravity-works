@@ -1,0 +1,16 @@
+{
+  "name": "gravity-works",
+  "version": "1.0.0",
+  "description": "Gravity simulation engine with WebGL visualization",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node test/run.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
